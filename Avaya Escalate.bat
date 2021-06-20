@@ -26,10 +26,11 @@ mkdir avayalogs
 
 cd "C:\Users\%username%\Desktop\Office Batch\test"
 echo.
-pause
+
 
 @REM mkdir "C:\Users\%username%\Desktop\AVAYA ESCALATE"
 @REM mkdir "C:\Users\%username%\Desktop\AVAYA ESCALATE\username"
 @REM mkdir "C:\Users\%username%\Desktop\AVAYA ESCALATE\Logs"
 
 @REM copy *pubudu*  "C:\Users\%username%\Desktop\Office Batch\test2"
+pause
