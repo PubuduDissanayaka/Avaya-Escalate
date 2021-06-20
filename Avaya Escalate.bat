@@ -26,7 +26,7 @@ mkdir avayalogs
 
 cd "C:\Users\%username%\Desktop\Office Batch\test"
 echo.
-
+pause
 
 @REM mkdir "C:\Users\%username%\Desktop\AVAYA ESCALATE"
 @REM mkdir "C:\Users\%username%\Desktop\AVAYA ESCALATE\username"
